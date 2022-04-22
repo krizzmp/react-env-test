@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  },
+  "dependencies": {
+    "@morningtrain/react-environment": "^2.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
